@@ -12,6 +12,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "axios": "^1.6.4"
+    "axios": "^1.6.4",
+    "sha1-uint8array": "^0.10.7"
   }
 }
